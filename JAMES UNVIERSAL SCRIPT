@@ -4,18 +4,16 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 	Icon = "rbxthumb://type=Asset&id=109954718709069&w=150&h=150"
 })
 
--- James Universe Hub, if you see this and paid for it, you got scammed. Check https://jameshub.bio.link for more info
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 
 
 local Window = Library.CreateLib("James's Hub", "DarkTheme")
 
-local Games = Window:NewTab("Rare Scripts💕📜")
-local GamesSection = Games:NewSection("Discord https://discord.gg/GgY8sYje Have fun")
+local Games = Window:NewTab("Cool Scripts🔥")
+local GamesSection = Games:NewSection("VISIT MY WEBSITE FOR MORE jameshub.bio.link")
 
-GamesSection:NewButton("Chat Bypass FIXED", "CHAT BYPASS OP", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/AlgariBot/lua/refs/heads/Lua-Script-Executor/LocalNeverPatchedBypass.txt"))()
+GamesSection:NewButton("2024 Chat bypass", "CHAT BYPASS OP", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/AlgariBot/lua/refs/heads/Lua-Script-Executor/LocalNeverPatchedBypass.txt"))()
 
 GamesSection:NewButton("ScriptHUB 3v :)", "BIG HUB 256 GAMES", function()
 loadstring(game:HttpGet("https://github.com/scripthubekitten/eee/raw/refs/heads/main/eezas", true))()
@@ -6149,12 +6147,12 @@ end)
 
 
 
-local Games = Window:NewTab("Rare/FE❤️🍔")
-local GamesSection = Games:NewSection("have fun bro")
+local Games = Window:NewTab("FE SCRIPTS ✨")
+local GamesSection = Games:NewSection("🎩 VISIT MY WEBSITE FOR MORE 🎩 jameshub.bio.link")
 GamesSection:NewButton("FE black hole", "works in many games", function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FE-black-hole-18879"))()
     print("Clicked")
 end)
-GamesSection:NewButton("FE Hats", "FE hat you need 9 hats", function()local plr = game.Players.LocalPlayer;
+GamesSection:NewButton("FE Hats/need 9 hats", "FE hat you need 9 hats", function()local plr = game.Players.LocalPlayer;
 local chr = plr.Character;
 local hum = chr.Humanoid;
 local mov = {};
@@ -6354,7 +6352,7 @@ end)
 GamesSection:NewButton("FE trolling Gui", "troll hub!", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau"))()
     print("Clicked")
 end)
-GamesSection:NewButton("FE Dick *click Q to start*", "susy script nah ah", function()--[[
+GamesSection:NewButton("FE Dick *4 HATS NEEDED*", "susy script nah ah", function()--[[
 WARNING: R6 ONLY
 Minimum of 4 Hats.
  
@@ -6514,7 +6512,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 Duration = 5;
     print("Clicked")
 end)
-local Games = Window:NewTab("Hubs/Admin🍣☕")
+local Games = Window:NewTab("Hubs/Admin⚒️")
 local GamesSection = Games:NewSection("Discord https://discord.gg/GgY8sYje Have fun")
 GamesSection:NewButton("Ice Gui (KEY IS 88 )", "what the fly? :3", function()--[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
