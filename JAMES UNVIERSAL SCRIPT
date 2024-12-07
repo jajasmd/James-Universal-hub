@@ -1,3 +1,11 @@
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "James Universal Hub",
+	Text = "Thank you for using my script!!! 💗",
+	Icon = "rbxthumb://type=Asset&id=109954718709069&w=150&h=150"
+})
+
+-- James Universe Hub, if you see this and paid for it, you got scammed. Check https://jameshub.bio.link for more info
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 
